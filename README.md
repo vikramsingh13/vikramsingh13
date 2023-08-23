@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/vikram-singh-32b0b2119/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.vikramsingh.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=react&logoColor=white" alt="VikramSingh.tech Portfolio Website"></a>
 
-### About Me :
+### <p align="">About Me :</p>
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="50"> based in Toronto.
 
@@ -28,10 +28,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/CrFLL3CnRpw5
 - 📫 How to reach me: &nbsp; [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-singh-32b0b2119/) [![Static Badge](https://img.shields.io/badge/Contact-orange?logo=react&logoColor=white)](https://www.vikramsingh.tech/)
 
 ---
+### <p align=""> 🛠 &nbsp;Languages and Tools : </p>
 
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
+</br>
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
@@ -51,7 +51,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/CrFLL3CnRpw5
 </p>
 
 ---
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramsingh13&layout=compact&theme=vision-friendly-dark)](https://github.com/vikramsingh13)
 
 ---
