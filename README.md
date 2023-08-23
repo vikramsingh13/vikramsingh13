@@ -51,6 +51,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/CrFLL3CnRpw5
 </p>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramsingh13&layout=compact&theme=vision-friendly-dark)](https://github.com/vikramsingh13)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramsingh13&layout=compact&theme=vision-friendly-dark)](https://github.com/vikramsingh13)
+
+[![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikramsingh13&show=reviews,prs_merged&theme=vision-friendly-dark&hide=stars,issues,contribs)](https://github.com/vikramsingh13)
 
 ---
